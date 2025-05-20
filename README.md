@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers 2.0
 
 - Class Date: may 22 - 23,2025
 - Facilitator: @gittrainer99
